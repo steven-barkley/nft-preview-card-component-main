@@ -28,8 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
+#### Desktop active state
 ![screenshot](https://github.com/steven-barkley/nft-preview-card-component-main/blob/master/nft-preview-card-component-main/design/active-states.jpg))
+#### Desktop design
 ![screenshot](https://github.com/steven-barkley/nft-preview-card-component-main/blob/master/nft-preview-card-component-main/design/desktop-design.jpg))
+#### Mobile design
 ![screenshot](https://github.com/steven-barkley/nft-preview-card-component-main/blob/master/nft-preview-card-component-main/design/mobile-design.jpg))
 
 
